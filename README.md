@@ -43,6 +43,7 @@ A powerful Discord bot for server management, capable of executing various comma
 3. **Running the EXE**:
    - Download the compiled `.exe` file from the releases section.
    - Run the `.exe` directly on your machine.
+   - Watch this video for better understanding  https://www.youtube.com/watch?v=RBNT8de1cQw
 
 4. **Interact with the Bot**:
    - Upon launching, the bot will show a menu.
@@ -61,6 +62,7 @@ A powerful Discord bot for server management, capable of executing various comma
 
 Upon running the bot, a menu will be displayed. Example:
 ![image](https://github.com/user-attachments/assets/657a20ef-ce10-4bf9-aba4-97a28b41a489)
+
 
 
 
