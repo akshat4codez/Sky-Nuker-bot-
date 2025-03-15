@@ -1,4 +1,4 @@
-# Discord Nuker Bot (EXE)
+# Discord Nuker Bot 
 
 A powerful Discord bot for server management, capable of executing various commands such as channel creation, deletion, mass pings, invite spamming, and more. This bot is intended for use in testing environments or private servers only. Please use responsibly.
 
@@ -40,12 +40,7 @@ A powerful Discord bot for server management, capable of executing various comma
    - ![image](https://github.com/user-attachments/assets/49f23bd0-ca77-4da0-bd8d-05be6ef6d862)
 
 
-3. **Running the EXE**:
-   - Download the compiled `.exe` file from the releases section.
-   - Run the `.exe` directly on your machine.
-   - Watch this video for better understanding  https://www.youtube.com/watch?v=RBNT8de1cQw
-
-4. **Interact with the Bot**:
+3. **Interact with the Bot**:
    - Upon launching, the bot will show a menu.
    - Use the options in the menu to:
      - Fetch bot information.
